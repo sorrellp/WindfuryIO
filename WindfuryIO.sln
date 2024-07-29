@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindfuryIO", "WindfuryIO\WindfuryIO.csproj", "{574196C3-8FE4-40E1-8C6F-922495A9522D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindfuryIO", "WindfuryIO\WindfuryIO.csproj", "{574196C3-8FE4-40E1-8C6F-922495A9522D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarcraftLogs", "WarcraftLogs\WarcraftLogs.csproj", "{8AE05304-969E-401D-BDEE-341206CA504D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarcraftLogs", "WarcraftLogs\WarcraftLogs.csproj", "{8AE05304-969E-401D-BDEE-341206CA504D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
