@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindfuryIO", "WindfuryIO\Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarcraftLogs", "WarcraftLogs\WarcraftLogs.csproj", "{8AE05304-969E-401D-BDEE-341206CA504D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindfuryIO.API", "WindfuryIO.API\WindfuryIO.API.csproj", "{D469063E-37D3-4DB7-98BF-7A9530EBC0AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8AE05304-969E-401D-BDEE-341206CA504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AE05304-969E-401D-BDEE-341206CA504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AE05304-969E-401D-BDEE-341206CA504D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D469063E-37D3-4DB7-98BF-7A9530EBC0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D469063E-37D3-4DB7-98BF-7A9530EBC0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D469063E-37D3-4DB7-98BF-7A9530EBC0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D469063E-37D3-4DB7-98BF-7A9530EBC0AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
